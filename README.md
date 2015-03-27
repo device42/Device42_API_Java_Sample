@@ -1,5 +1,6 @@
 # Device42 API Java Sample
-Sample Java code to show how to access Device42 API's with Java
+Sample Java code to show how to access Device42 API's with Java 
+and utilize the result as JSON objects
 
 #Dependencies
 JDK 1.7
