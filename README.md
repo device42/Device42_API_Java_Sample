@@ -6,4 +6,4 @@ JDK 1.7
 JSON.simple (https://code.google.com/p/json-simple/)
 
 #Usage
-
+Device42API device_42_url device42_user device42_password
